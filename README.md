@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmed Aziz ABBASSI
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning python and SQL.
+- 🌱 I’m currently learning C++ and SQL.
 - 💞️ I’m looking to collaborate on web site development.
 - 📫 How to reach me: -Tel- +216 20 258 316 -Mail- ahmedaziz.abbassi@gmail.com
 

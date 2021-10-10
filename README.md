@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science. 
 - 🌱 I’m currently learning C++ and SQL.
 - 💞️ I’m looking to collaborate on web site development or desktop application develpment.
-- 📫 How to reach me: -Tel- +21620258316 -Mail- ahmedaziz.abbassi@gmail.com
+- 📫 How to reach me: -Tel- +216 20 258 316 -Mail- ahmedaziz.abbassi@gmail.com
 
 Ahmed is a good 👍 boy 👦.
 He studies CS in LDCF.

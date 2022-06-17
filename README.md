@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Ahmed Aziz ABBASSI.
+- 👋 Hi, I’m <strong>Ahmed Aziz ABBASSI</strong>.
 - 👀 I’m interested in computer science. 
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on web site development.
 - 📫 How to reach me: -Tel- +216 20 258 316 -Mail- ahmedaziz.abbassi@gmail.com
+
+![image](https://user-images.githubusercontent.com/77698923/174256464-e00c2c6e-e9ee-4090-a879-be86bfc61c04.png)
+
 
 Ahmed is a good 👍 boy 👦.
 He have studied CS in LDCF for 3 years.
@@ -12,7 +15,7 @@ He knows HTML5 & CSS3 as well as PHP & SQL. The most effective project which he 
 
 <h1 style="text-decoration: underlined;">My skills :</h1>
 
-![image](https://user-images.githubusercontent.com/77698923/174256234-7f1eebd7-f50f-4d35-924b-0e470965e64e.png)
+![image](https://user-images.githubusercontent.com/77698923/174256531-2689492a-bbc9-49dc-aeb0-5964685361ab.png)
 
 <!---
 ahmed-99882/ahmed-99882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -13,7 +13,8 @@ Ahmed is a good 👍 boy 👦.<br>
 He have studied CS in LDCF for 3 years.<br>
 He loves 😍 programming 👨‍💻 so much.<br>
 He is a brilliant programmer.</br>
-He knows HTML5 & CSS3 as well as PHP & SQL. The most effective project which he made is SAGE-WEB-APP. Furthermore, he had taken a responsive web design 🎨 course.
+He knows HTML5 & CSS3 as well as PHP & SQL. The most effective project which he made is SAGE-WEB-APP.<br>
+Furthermore, he had taken a responsive web design 🎨 course.
 </p>
 <h1>My skills in one photo:</h1>
 

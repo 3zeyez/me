@@ -10,9 +10,9 @@ He loves 😍 programming 👨‍💻 so much.
 He is a brilliant programmer.</br>
 He knows HTML5 & CSS3 as well as PHP & SQL. The most effective project which he made is SAGE-WEB-APP. Furthermore, he had taken a responsive web design 🎨 course.
 
-<!-- <h1 style="text-decoration: underlined;">My skills :</h1> -->
+<h1 style="text-decoration: underlined;">My skills :</h1>
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/77698923/174256234-7f1eebd7-f50f-4d35-924b-0e470965e64e.png)
 
 <!---
 ahmed-99882/ahmed-99882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

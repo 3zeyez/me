@@ -10,7 +10,7 @@ He loves 😍 programming 👨‍💻 so much.
 He is a brilliant programmer.</br>
 He knows HTML5 & CSS3 as well as PHP & SQL. The most effective project which he made is SAGE-WEB-APP. Furthermore, he had taken a responsive web design 🎨 course.
 
-<h1 style="text-decoration: underlined;">My skills :</h1>
+<!-- <h1 style="text-decoration: underlined;">My skills :</h1> -->
 
 ![Uploading image.png…]()
 

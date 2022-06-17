@@ -9,9 +9,9 @@
 <!--   ![image](https://user-images.githubusercontent.com/77698923/174256531-2689492a-bbc9-49dc-aeb0-5964685361ab.png) -->
 
 <p style="font-size: 30px; font-weight: bolder;">
-Ahmed is a good 👍 boy 👦.
-He have studied CS in LDCF for 3 years.
-He loves 😍 programming 👨‍💻 so much.
+Ahmed is a good 👍 boy 👦.<br>
+He have studied CS in LDCF for 3 years.<br>
+He loves 😍 programming 👨‍💻 so much.<br>
 He is a brilliant programmer.</br>
 He knows HTML5 & CSS3 as well as PHP & SQL. The most effective project which he made is SAGE-WEB-APP. Furthermore, he had taken a responsive web design 🎨 course.
 </p>

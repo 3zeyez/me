@@ -9,10 +9,9 @@ He have studied CS in LDCF for 3 years.
 He loves 😍 programming 👨‍💻 so much.
 He is a brilliant programmer.</br>
 He knows HTML5 & CSS3 as well as PHP & SQL. The most effective project which he made is SAGE-WEB-APP. Furthermore, he had taken a responsive web design 🎨 course.
+
+<h1>My skills :</h1>
 ![image](https://user-images.githubusercontent.com/77698923/174254650-2afb6814-ec17-48f3-ab77-7b40ab95f342.png)
-
-![image](https://user-images.githubusercontent.com/77698923/174254391-b8e41269-4137-4e35-88f7-b65ab5de80b5.png)
-
 
 <!---
 ahmed-99882/ahmed-99882 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
